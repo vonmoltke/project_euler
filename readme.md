@@ -1,4 +1,4 @@
-Yet another repository of Project Euler solutions.  Seems like a requirement these days when one has a Github account.
+Yet another repository of [Project Euler](https://projecteuler.net/abouthttps://projecteuler.net/about) solutions.  Seems like a requirement these days when one has a Github account.
 
 In this one I intend to solve each problem in multiple languages:
 
