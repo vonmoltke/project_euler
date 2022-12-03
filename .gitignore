@@ -1,3 +1,8 @@
-java/bin
+# C/C++-related excludes
 cmake-build-debug/
+
+# JVM-related excludes
+.gradle
+build/
+gradle/
 

@@ -1,9 +1,8 @@
-package project_euler;
+package com.wmkrug.project_euler.problem1;
 
 import java.lang.*;
-import java.io.*;
 
-public final class Problem1 {
+public final class Main {
     public static void main(final String... args) {
         int sum = 0;
 
@@ -12,7 +11,7 @@ public final class Problem1 {
                 sum += i;
             }
         }
-        
+
         System.out.println("The answer is " + sum);
     }
 }
